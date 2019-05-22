@@ -1,0 +1,8 @@
+[package]
+name = "whom"
+version = "0.1.0"
+authors = ["Phil Denhoff <phil@denhoff.ca>"]
+edition = "2018"
+
+[dependencies]
+libc = "0.2.50"
